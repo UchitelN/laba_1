@@ -2,7 +2,7 @@ import json
 import os
 from datetime import datetime
 
-# jneufhuefhuhefh
+# здесь был 561138
 FILE_NAME = "finance.json"
 
 
@@ -77,7 +77,7 @@ def show_operations(data):
             f"{operation['comment']}"
         )
 
-
+# здесь был 561004
 # Расчёт основных показателей
 def calculate_statistics(data):
     income = 0
@@ -225,3 +225,4 @@ def main():
 # Запуск программы
 if __name__ == "__main__":
     main()
+    #  Сделал изменения 561223
