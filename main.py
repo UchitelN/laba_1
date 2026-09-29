@@ -77,7 +77,7 @@ def show_operations(data):
             f"{operation['comment']}"
         )
 
-
+# здесь был 561004
 # Расчёт основных показателей
 def calculate_statistics(data):
     income = 0
