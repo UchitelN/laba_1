@@ -2,7 +2,7 @@ import json
 import os
 from datetime import datetime
 
-
+# здесь был 561138
 FILE_NAME = "finance.json"
 
 
